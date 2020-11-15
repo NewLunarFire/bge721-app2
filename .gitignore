@@ -1,0 +1,8 @@
+.vscode/
+venv/
+figures/
+*.pdf
+*.png
+*.zip
+*.mat
+*.csv
